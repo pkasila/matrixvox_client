@@ -1,0 +1,3 @@
+[submodule "Matrixvox-slicer"]
+	path = Matrixvox-slicer
+	url = https://github.com/AlexeysShelyagin/Matrixvox-slicer
