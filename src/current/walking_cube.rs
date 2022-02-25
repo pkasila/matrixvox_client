@@ -1,3 +1,5 @@
+pub const NAME: &str = "walking_cube";
+
 pub const BITMAP: [[[u8; 8]; 16]; 240] = [
     [
         [
